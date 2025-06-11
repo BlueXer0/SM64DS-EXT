@@ -8,7 +8,7 @@ includes patch and asm patches
 - 3.) put rom in WALUIG ASM FOLDER
 - 4.) open nsmbe and got to <Tools/Options>
 - 5.) Click <Run "make clean"
-- 6.) Click <Rin "make insert"
+- 6.) Click <RUn "make insert"
 - and then enjoy
 - CREDITS TO ASM
 - pants64
