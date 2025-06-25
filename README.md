@@ -1,5 +1,5 @@
-# SM64DS-EXT
-SM64DS-EXT BETA
+# SM64DS-EXT 
+SM64DS-EXT !!!BETA USE EUROPE ROM!!!
 includes patch and asm patches
 - instructions
 - PATCHES ARE IN RELEASES
